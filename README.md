@@ -1,6 +1,6 @@
 # Curso básico de python
 En este curso a programar en python
-![](Imagenes\LogoPython.jpg)
+![Logo python](Imagenes\LogoPython.jpg)
 **Requisitos**
 - Python 3.6 o superior 
 - Computadora con Windows, Linux o MacOS
